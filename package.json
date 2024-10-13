@@ -1,0 +1,20 @@
+{
+  "name": "node-file-manager",
+  "version": "1.0.0",
+  "description": "File Manager task, RSSchool Node.Js 2024 Q3",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drDramen/node-file-manager.git"
+  },
+  "author": "Dramen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drDramen/node-file-manager/issues"
+  },
+  "homepage": "https://github.com/drDramen/node-file-manager#readme"
+}
