@@ -1,3 +1,2 @@
-## [Assignment: File Manager](./assignment/assignment.md)
-
-## [Score](./assignment/score.md)
+**[Assignment: File Manager](./assignment/assignment.md)**  
+**[Score](./assignment/score.md)**
